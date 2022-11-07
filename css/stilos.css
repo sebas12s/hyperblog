@@ -21,6 +21,11 @@ body {
     font-size: .8em;
 }
 
+#cabecera #logo {
+    width: 20px;
+    vertical-align: middle;
+}
+
 #container {
     width: 70%;
     padding: 1em;
@@ -31,4 +36,15 @@ body {
 
 #container h1 {
     font-size: 20px;
+}
+
+#post {
+    background: white;
+    padding: 1em;
+}
+
+#footer {
+    background: #777;
+    color: white;
+    text-align: center;
 }
