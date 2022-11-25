@@ -10,5 +10,7 @@ Un blog increible para el[ curso de Git y Github](https://platzi.com/cursos/git-
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
 * Las waifus son muy lindas pero mas es Hinata
+* Tambien nos gusta mucho el juego de genshin impact 
+* Soy nivel A2 de ingles espero cuando llegue el 2024 sea C1
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  DiseÃ±ado para el ejemplo. Si llegas aca¡ NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
